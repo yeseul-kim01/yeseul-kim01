@@ -8,19 +8,22 @@ I'm Yeseul Kim, a passionate developer interested in building practical, real-wo
 ### 🏫 [WeCampus](https://github.com/wecampus-platform) — 대학 협업 플랫폼 (진행중)
 - 학생회 및 학과 간 소통, 일정/업무 관리를 위한 플랫폼
 - 🛠 **Spring Boot**, **Next.js**, **MySQL**, **Docker**, **GCP**, **GITHUB ACTION**
-🧩 팀장 및 백엔드 , 서비스 배포 , 일부 프론트 
+
+- 🧩 팀장 및 백엔드 , 서비스 배포 , 일부 프론트 
 ---
 
 ### 🗣 [SpeakNote](https://github.com/2025-AI-SW-Hackathon) — 2025 AI·SW 해커톤 우수상 (진행중) , 2025 DAIC 수상
 - 강의 음성을 요약하여 실시간 주석으로 표시하는 LLM 기반 강의 보조 시스템
 - 🛠 **FastAPI**, **React**, **Google STT**, **OpenAI GPT**, **WebSocket** , **PDF.JS** , **Docker** 
-🧩 PDF 상 실시간 주석 생성 및 배치, 드래그 앤 드롭 기반 인터랙션 UI 구현
 
-🔗 FastAPI 기반 AI 서버와 Spring Boot 백엔드 연동, WebSocket 및 REST API 통신 직접 구현
 
-🗄 MongoDB 기반 주석 저장 구조 설계, 주석 위치 및 텍스트 저장/복원 기능 구현
+- 🧩 PDF 상 실시간 주석 생성 및 배치, 드래그 앤 드롭 기반 인터랙션 UI 구현
 
-☁️ GCP VM 기반 전체 인프라 구성 및 배포, AI 서버 및 백엔드 컨테이너화 직접 담당
+- 🔗 FastAPI 기반 AI 서버와 Spring Boot 백엔드 연동, WebSocket 및 REST API 통신 직접 구현
+
+- 🗄 MongoDB 기반 주석 저장 구조 설계, 주석 위치 및 텍스트 저장/복원 기능 구현
+
+- ☁️ GCP VM 기반 전체 인프라 구성 및 배포, AI 서버 및 백엔드 컨테이너화 직접 담당
 
 ---
 
