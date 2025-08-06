@@ -11,7 +11,7 @@ I'm Yeseul Kim, a passionate developer interested in building practical, real-wo
 🧩 팀장 및 백엔드 , 서비스 배포 , 일부 프론트 
 ---
 
-### 🗣 [SpeakNote](https://github.com/2025-AI-SW-Hackathon) — 2025 AI·SW 해커톤 우수상 (진행중)
+### 🗣 [SpeakNote](https://github.com/2025-AI-SW-Hackathon) — 2025 AI·SW 해커톤 우수상 (진행중) , 2025 DAIC 수상
 - 강의 음성을 요약하여 실시간 주석으로 표시하는 LLM 기반 강의 보조 시스템
 - 🛠 **FastAPI**, **React**, **Google STT**, **OpenAI GPT**, **WebSocket** , **PDF.JS** , **Docker** 
 🧩 PDF 상 실시간 주석 생성 및 배치, 드래그 앤 드롭 기반 인터랙션 UI 구현
