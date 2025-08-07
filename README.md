@@ -42,11 +42,10 @@ I'm Yeseul Kim, a passionate developer interested in building practical, real-wo
 ---
 
 ## 💡 Skills & Interests
-- **Back-end**: Java, Spring Boot, JPA, MySQL, Redis, WebSocket
+- **Back-end**: Java, Spring Boot, JPA, MySQL,NoSQL-MONGO, Redis, WebSocket
 - **Front-end**: React, Next.js, Tailwind CSS, PDF.js
-- **AI/ML**: PyTorch, TorchServe, Google STT, OpenAI GPT
-- **DevOps**: Docker, Kubernetes, Istio, GitHub Actions
-- **Infrastructure**: Docker, Kubernetes, Istio, GitHub Actions, AWS EC2
+- **AI/ML**: PyTorch, TorchServe, OpenAI GPT
+- **Infrastructure**: Docker, Kubernetes, Istio, GitHub Actions, AWS EC2 , GCP
 
 
 
@@ -54,5 +53,5 @@ I'm Yeseul Kim, a passionate developer interested in building practical, real-wo
 
 ## 📫 Let's connect!
 - GitHub: [yeseul-kim01](https://github.com/yeseul-kim01)
-- Email: yeseulkim.dev@gmail.com
+- Email: yesul0718@pusan.ac.kr , ysk010718@gmail.com
 
