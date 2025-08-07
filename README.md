@@ -5,14 +5,14 @@ I'm Yeseul Kim, a passionate developer interested in building practical, real-wo
 
 ## 🚀 Projects & Collaborations
 
-### 🏫 [WeCampus](https://github.com/wecampus-platform) — 대학 협업 플랫폼 (진행중)
+### 🏫 [WeCampus](https://github.com/wecampus-platform) — 2025 PNU SW 융합 해커톤(예선 수상, 본선 진행중) 대학 협업 플랫폼 (진행중)
 - 학생회 및 학과 간 소통, 일정/업무 관리를 위한 플랫폼
 - 🛠 **Spring Boot**, **Next.js**, **MySQL**, **Docker**, **GCP**, **GITHUB ACTION**
 
 - 🧩 팀장 및 백엔드 , 서비스 배포 , 일부 프론트 
 ---
 
-### 🗣 [SpeakNote](https://github.com/2025-AI-SW-Hackathon) — 2025 AI·SW 해커톤 최우수상 , 2025 DAIC 최우수상 수상 (진행중)
+### 🗣 [SpeakNote](https://github.com/2025-AI-SW-Hackathon) — 2025 AI·SW 해커톤 최우수상 , 2025 PNU DAIC 최우수상 수상 (진행중)
 - 강의 음성을 요약하여 실시간 주석으로 표시하는 LLM 기반 강의 보조 시스템
 - 🛠 **FastAPI**, **React**, **Google STT**, **OpenAI GPT**, **WebSocket** , **PDF.JS** , **Docker** 
 
