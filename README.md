@@ -8,7 +8,7 @@ I'm Yeseul Kim, a passionate developer interested in building practical, real-wo
 ---
 
 
-### 🏷️ **LedgerMate — 규정 기반 예·결산 어시스턴트 (개인 프로젝트 · 진행중)**
+### 🏷️ **[LedgerMate](https://github.com/yeseul-kim01/2025-PROJECT_ledgermate-platform) — 규정 기반 예·결산 어시스턴트 (개인 프로젝트 · 진행중)**
 총칙/세칙 PDF를 파싱→검색 가능한 청크로 저장하고, 예산/결산 작성 시 규정 근거·분류·코드 추천까지 지원하는 **라이브러리 중심 파이프라인**,
 OCR·사용자 이벤트 로그는 **Snowflake 기반 데이터 분석 파이프라인**에 적재해 지출 패턴·추천 정확도 통계까지 관리
 
