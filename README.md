@@ -100,10 +100,12 @@ OCR·사용자 이벤트 로그는 **Snowflake 기반 데이터 분석 파이프
 ---
 
 ## 💡 Skills & Interests
-- **Back-end**: Java, Spring Boot, JPA, MySQL,NoSQL-MONGO, Redis, WebSocket
-- **Front-end**: React, Next.js, Tailwind CSS, PDF.js
-- **AI/ML**: PyTorch, TorchServe, OpenAI GPT
-- **Infrastructure**: Docker, Kubernetes, Istio, GitHub Actions, AWS EC2 , GCP
+- Back-end: Java, Spring Boot, JPA, MySQL, PostgreSQL, NoSQL-MongoDB, Redis, WebSocket
+- Front-end: React, Next.js, Tailwind CSS, PDF.js
+- AI/ML: PyTorch, TorchServe, OpenAI GPT, Upstage Solar, RAG-lite, LightGBM, SVM
+- Data/Parsing: OCR(Upstage, Tesseract, Google Vision, AWS Textract), Document Parser, pgvector, Snowflake
+- Infrastructure: Docker, Docker Compose, Kubernetes, Istio, GitHub Actions, AWS EC2, GCP, Render, Cloud Run
+- Etc: PyPI Packaging, ETL/Data Pipeline, CI/CD Automation, Observability(Prometheus, Grafana, Jaeger, Kiali)
 
 
 
