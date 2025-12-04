@@ -40,6 +40,19 @@
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=black">
+<img src="https://img.shields.io/badge/Lightning AI-792EE5?style=for-the-badge&logo=Lightning&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
+<img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macOS&logoColor=white">
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+
 
           </div>
     </div>
