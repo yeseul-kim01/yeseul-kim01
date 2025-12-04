@@ -12,7 +12,6 @@
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Backend </h3> <br> 
 <div align="center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white"> <img src="https://img.shields.io/badge/OCR-FF6F00?style=for-the-badge&logo=tesseract&logoColor=white"> </div>
 </div>
-
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://flat-mind-461.notion.site/1ecf2e888e268026adebfd5d00b123bd?pvs=74> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://flat-mind-461.notion.site/1ecf2e888e268026adebfd5d00b123bd?pvs=74"> </a>
@@ -24,8 +23,8 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=yeseul-kim01&bg_color=60,592c2c,5f0202&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeseul-kim01&layout=compact&bg_color=60,592c2c,5f0202&title_color=ffffff&text_color=ffffff"
            /> </div> 
-    </div>
-    
+</div>
+
 
 
 ## Hi there 👋  
