@@ -26,20 +26,13 @@
 <div align="center"> 
 <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 협업 & 업무 역량 </h3> <br> 
 <img src="https://img.shields.io/badge/Team Leadership-6A5ACD?style=for-the-badge"> <img src="https://img.shields.io/badge/Project Management-2E8B57?style=for-the-badge"> <img src="https://img.shields.io/badge/Communication-1E90FF?style=for-the-badge"> <img src="https://img.shields.io/badge/Problem Solving-FF8C00?style=for-the-badge"> <img src="https://img.shields.io/badge/Documentation-008080?style=for-the-badge"> <img src="https://img.shields.io/badge/UI/UX Collaboration-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Agile/Scrum-000000?style=for-the-badge"> </div>
-    
-    
-    
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Contact me </h2> <br> 
     <div align= "center"> <a href=https://flat-mind-461.notion.site/1ecf2e888e268026adebfd5d00b123bd?pvs=74> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://flat-mind-461.notion.site/1ecf2e888e268026adebfd5d00b123bd?pvs=74"> </a>
          <a href=mailto:yesul0718@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yesul0718@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=yeseul-kim01&bg_color=60,592c2c,5f0202&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeseul-kim01&layout=compact&bg_color=60,592c2c,5f0202&title_color=ffffff&text_color=ffffff"
-           /> </div> 
 </div>
 
 
