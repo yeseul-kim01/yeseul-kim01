@@ -87,7 +87,6 @@
 I'm **Yeseul Kim** — 백엔드에서 출발해 **AI를 ‘서비스’로 운영하는 구조**까지 설계하는 개발자입니다.
 Spring Boot · FastAPI 백엔드 위에 LLM 운영(Multi-Agent · RAG) · 모델 파인튜닝 · 쿠버네티스/서버리스 인프라를 직접 연결해 왔습니다.
 
-
 ---
 
 ## 🚀 Projects
@@ -99,11 +98,12 @@ Spring Boot · FastAPI 백엔드 위에 LLM 운영(Multi-Agent · RAG) · 모델
 - 🛠 FastAPI · ReAct Agent · RAG · pgvector · Neo4j · Redis · Docker · HCX
 - 🔗 [GitHub](https://github.com/2026-StructVerify-Lab) · [Demo](https://youtu.be/UrgJ6tJFd1Q)
 
-### 🔗 Text2Graph — 문서 단위 관계추출 → 지식그래프 파이프라인 *(총괄 PM)*
+### 🔗 [Text2Graph](https://github.com/yeseul-kim01/2026-Text2Graph) — 문서 단위 관계추출 → 지식그래프 파이프라인 *(총괄 PM)*
 DocRED 기반 **Document-level Relation Extraction**을 4단계 Incremental Stacking으로 쌓아 Neo4j 지식그래프까지 구축.
 - 구조: BERT → **ATLOP + DREEAM** → **GAIN-lite GNN** → **Graph U-Net**
 - 성과: Stage 3 **Micro F1 60.43** (DocRED Dev, 998문서)
 - 🛠 PyTorch · BERT · GNN · ATLOP · DREEAM · Neo4j
+- 🔗 [GitHub](https://github.com/yeseul-kim01/2026-Text2Graph)
 
 ### 💬 [Multiturn Memory Chat](https://github.com/2026-Pretrained-Conversational-Model) — 메모리 기반 멀티턴 챗봇 *(NLP 팀)*
 대화를 **memory_state로 압축·갱신**하는 구조를 설계하고, 그 **요약 모델을 LoRA로 직접 파인튜닝**해 멀티턴 성능 개선을 연구.
@@ -144,5 +144,4 @@ DocRED 기반 **Document-level Relation Extraction**을 4단계 Incremental Stac
 ## 📫 Let's connect!
 - 🌐 Portfolio: [yeseulkim.cloud](https://yeseulkim.cloud)
 - 🐙 GitHub: [yeseul-kim01](https://github.com/yeseul-kim01)
-- 📝 Notion: [이력/포트폴리오](https://flat-mind-461.notion.site/1ecf2e888e268026adebfd5d00b123bd)
 - ✉️ Email: yesul0718@gmail.com · yesul0718@pusan.ac.kr
