@@ -1,154 +1,149 @@
-
-
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=0:f95353,100:690707&height=180&text=yeseul-kim&animation=fadeIn&fontColor=bfbfbf&fontSize=50" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Successful development includes not only coding, but also debugging, testing, deployment, and maintenance. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> I care less about listing tech stacks and more about why I choose a certain technology and whether my code truly fits the environment and architecture it runs in.</li>Rather than simply implementing one part of a system, I strive to be a developer who continuously explores better architectures and design directions to solve problems more effectively.</li> </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tech Stacks </h2> <br> 
-    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Backend </h3> <br> 
-<div align="center"><div align="center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"><br> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"><br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"><br> <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white"></div></div>
-</div>
-<div align="center"> 
-    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> AI / ML </h3> <br> 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/TorchServe-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/OpenAI GPT-412991?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Upstage Solar-000000?style=for-the-badge&logo=upstage&logoColor=white"> <img src="https://img.shields.io/badge/RAG--lite-0A84FF?style=for-the-badge&logo=semanticweb&logoColor=white"> <img src="https://img.shields.io/badge/LightGBM-6DB33F?style=for-the-badge&logo=lightgbm&logoColor=white"> <img src="https://img.shields.io/badge/SVM-FF6F00?style=for-the-badge"> </div>
-<div align="center"> 
-    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Data Engineering & Parsing </h3> <br> 
-    <img src="https://img.shields.io/badge/OCR (Upstage)-000000?style=for-the-badge&logo=upstage&logoColor=white"> <img src="https://img.shields.io/badge/Tesseract OCR-5C3EE8?style=for-the-badge&logo=tesseract&logoColor=white"> <img src="https://img.shields.io/badge/Google Vision-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/AWS Textract-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Document Parser-0066CC?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"> </div>
-<div align="center"> 
-    <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Infrastructure / DevOps </h3> <br> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Docker Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/GCP Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"> <img src="https://img.shields.io/badge/Cloud Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/Jaeger-65A2FF?style=for-the-badge&logo=jaeger&logoColor=white"> <img src="https://img.shields.io/badge/Kiali-007ACE?style=for-the-badge&logoColor=white"> </div>
-<div align="center"> 
-<h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 협업 & 업무 역량 </h3> <br> 
-<img src="https://img.shields.io/badge/Team Leadership-6A5ACD?style=for-the-badge"> <img src="https://img.shields.io/badge/Project Management-2E8B57?style=for-the-badge"> <img src="https://img.shields.io/badge/Communication-1E90FF?style=for-the-badge"> <img src="https://img.shields.io/badge/Problem Solving-FF8C00?style=for-the-badge"> <img src="https://img.shields.io/badge/Documentation-008080?style=for-the-badge"> <img src="https://img.shields.io/badge/UI/UX Collaboration-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Agile/Scrum-000000?style=for-the-badge"> </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Contact me </h2> <br> 
-    <div align= "center"> <a href=https://flat-mind-461.notion.site/1ecf2e888e268026adebfd5d00b123bd?pvs=74> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://flat-mind-461.notion.site/1ecf2e888e268026adebfd5d00b123bd?pvs=74"> </a>
-         <a href=mailto:yesul0718@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yesul0718@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:f95353,100:690707&height=180&text=yeseul-kim&animation=fadeIn&fontColor=bfbfbf&fontSize=50" />
 </div>
 
+<div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Successful development includes not only coding, but also debugging, testing, deployment, and maintenance. </h2>
+  <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
+    I care less about listing tech stacks and more about <b>why</b> I choose a certain technology and whether my code truly fits the environment and architecture it runs in.
+    Rather than simply implementing one part of a system, I strive to be a developer who continuously explores better architectures and design directions to solve problems more effectively.
+  </div>
+</div>
 
-
-## Hi there 👋  
-I'm Yeseul Kim, a passionate developer interested in building practical, real-world solutions using AI, web technologies, and system design.
-
----
-
-## 🚀 Projects & Collaborations
-
----
-
-
-### 🏷️ **[LedgerMate](https://github.com/yeseul-kim01/2025-PROJECT_ledgermate-platform) — 규정 기반 예·결산 어시스턴트 (개인 프로젝트 · 진행중)**
-총칙/세칙 PDF를 파싱→검색 가능한 청크로 저장하고, 예산/결산 작성 시 규정 근거·분류·코드 추천까지 지원하는 **라이브러리 중심 파이프라인**,
-OCR·사용자 이벤트 로그는 **Snowflake 기반 데이터 분석 파이프라인**에 적재해 지출 패턴·추천 정확도 통계까지 관리
+<div align="center">
+  <h3>🌐 Portfolio &nbsp;·&nbsp; <a href="https://yeseulkim.cloud">yeseulkim.cloud</a></h3>
+  <sub>React + AWS 서버리스(Lambda · DynamoDB · S3 · CloudFront)로 <b>직접 만들고 운영</b>하는 포트폴리오 · 개발기록 블로그 (관리자에서 글/프로젝트 직접 작성)</sub>
+</div>
 
 ---
 
-🧩 **역할**
-기획 · 데이터 모델링 · 백엔드/CLI · 스토리지 설계 · 배포 자동화 전부 단독 수행
+<div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tech Stacks </h2>
+
+  <h3> Backend </h3>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+
+  <h3> AI · LLM / NLP </h3>
+  <img src="https://img.shields.io/badge/Multi--Agent%20(ReAct)-0A84FF?style=for-the-badge&logo=semanticweb&logoColor=white">
+  <img src="https://img.shields.io/badge/RAG%20%2F%20CRAG-0A84FF?style=for-the-badge&logo=semanticscholar&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LoRA%20%2F%20SFT-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/BERT%20%2F%20GNN-FF6F00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Qwen2.5-615CED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Upstage%20Solar-000000?style=for-the-badge&logo=upstage&logoColor=white">
+
+  <h3> Data Engineering & Storage </h3>
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white">
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/OCR%20(Upstage)-000000?style=for-the-badge&logo=upstage&logoColor=white">
+  <img src="https://img.shields.io/badge/Document%20Parser-0066CC?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Knowledge%20Graph-1A73E8?style=for-the-badge">
+
+  <h3> Infrastructure / MLOps </h3>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/KServe-0865A6?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Knative-0865A6?style=for-the-badge&logo=knative&logoColor=white">
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
+  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=white">
+  <img src="https://img.shields.io/badge/Kiali-007ACE?style=for-the-badge">
+
+  <h3> 협업 & 업무 역량 </h3>
+  <img src="https://img.shields.io/badge/Team%20Leadership-6A5ACD?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Project%20Management-2E8B57?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Communication-1E90FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Problem%20Solving-FF8C00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Documentation-008080?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Agile%2FScrum-000000?style=for-the-badge">
+</div>
 
 ---
 
-🛠 **기술 스택 (현재 + 완료 기준)**
+## Hi there 👋
+I'm **Yeseul Kim** — 백엔드에서 출발해 **AI를 ‘서비스’로 운영하는 구조**까지 설계하는 개발자입니다.
+Spring Boot · FastAPI 백엔드 위에 LLM 운영(Multi-Agent · RAG) · 모델 파인튜닝 · 쿠버네티스/서버리스 인프라를 직접 연결해 왔습니다.
 
-* **Core/Parsing:** Python 3.11, venv, Typer CLI, Requests, python-dotenv, Pydantic, Upstage Document Parser API, HTML Table Extractor, 커스텀 Chunker(heading/문단/표 포함)
-* **Reasoning/RAG:** Trigram 검색(pg\_trgm) 기반 규칙 검색, 휴리스틱 룰 매칭, (완성 시) 임베딩 + pgvector, 재랭킹, LLM(Upstage/Solar, OpenAI) 플러그블 전략, 앙상블 오케스트레이션
-* **Storage/Infra:** PostgreSQL 14, psycopg3, JSONB, 파일 아티팩트 스토리지(Local/Docker Volume), 다중 테넌시(org\_id)+RLS, 인덱스 최적화(pg\_trgm)
-* **Data/Analytics:** **Snowflake (OCR 로그/사용자 이벤트 적재, 지출 통계/추천 정확도 분석), S3 Stage 연동**, (완성 시) Snowflake ML + SageMaker 기반 추천 개선
-* **Packaging/Dev:** 라이브러리 모듈 구조(lm-docparse, lm-store, lm-reasoner), 편집 설치(-e), 요구사항 프로파일(dev/prod), (완성 시) PyPI 릴리스, pre-commit
-* **Ops/배포 (완성 예정):** Docker, docker-compose, GitHub Actions CI, (선택) Cloud Run/Render + Cloud SQL/Postgres
+> 🏆 **멋쟁이사자처럼 AI 엔지니어 자연어처리 과정 (4회차) 최우수상** — 팀 ‘기억구조’ / StructVerify
 
 ---
 
-📦 **구성/기능**
+## 🚀 Projects
 
-* 문서 파싱 CLI: 단일/배치 파싱, 로그/디버그, 표 텍스트+셀 구조 동시 보존
-* 청크 스키마: `{order, code, title, text, path, context_text, tables}` 일관 포맷
-* DB 적재: policy, rule\_chunk, artifact, budget\_doc 스키마 및 인덱스/보안 정책(RLS) 포함
-* 예산안 적재: 예산안 PDF 업로드→아티팩트 저장→(옵션) 파서 결과 JSON 보관
-* 추천 베이스라인: 규정 키워드/유사도 기반 섹션 검색 → 사업분야/비목 코드 후보 생성
-* 로그 분석: 영수증 OCR 결과·사용자 태깅 이벤트를 Snowflake에 적재 → **정확도·수정율·초과 집행 패턴** 분석 대시보드
-* 확장성: 휴리스틱/LLM/히스토리 기반 추천 전략을 플러그인 구조로 설계
+### 🤖 [StructVerify](https://github.com/2026-StructVerify-Lab) — 도메인 독립형 LLM 사실검증 플랫폼 🏆 *멋쟁이사자처럼 AI NLP 4기 최우수상*
+뉴스의 수치 주장을 KOSIS 등 **공식 통계와 자동 비교·검증**. 고정 파이프라인이 아니라 **ReAct Agent(Planner → Loop → Reflect)** 가 claim마다 계획을 세우고 도구를 호출하며 반성합니다.
+- 핵심: **Multi-Agent** · **Working Memory + Workspace** 이중 상태 · **Docker Sandbox**(신뢰 불가 코드 격리) · claim leveling
+- 성과: 판정 정확도(oracle) **62.2%**, KOSIS grounding **94.6%**
+- 🛠 FastAPI · ReAct Agent · RAG · pgvector · Neo4j · Redis · Docker · HCX
+- 🔗 [GitHub](https://github.com/2026-StructVerify-Lab) · [Demo](https://youtu.be/UrgJ6tJFd1Q)
 
----
+### 🔗 Text2Graph — 문서 단위 관계추출 → 지식그래프 파이프라인 *(총괄 PM)*
+DocRED 기반 **Document-level Relation Extraction**을 4단계 Incremental Stacking으로 쌓아 Neo4j 지식그래프까지 구축.
+- 구조: BERT → **ATLOP + DREEAM** → **GAIN-lite GNN** → **Graph U-Net**
+- 성과: Stage 3 **Micro F1 60.43** (DocRED Dev, 998문서)
+- 🛠 PyTorch · BERT · GNN · ATLOP · DREEAM · Neo4j
 
-🧪 **예시 워크플로우**
+### 💬 [Multiturn Memory Chat](https://github.com/2026-Pretrained-Conversational-Model) — 메모리 기반 멀티턴 챗봇 *(NLP 팀)*
+대화를 **memory_state로 압축·갱신**하는 구조를 설계하고, 그 **요약 모델을 LoRA로 직접 파인튜닝**해 멀티턴 성능 개선을 연구.
+- 핵심: 읽기 매 턴 / 쓰기 3턴 fire-and-forget · 라우터 4-state · completion-only SFT(v0.1→v0.3)
+- 🛠 FastAPI · Node.js · Qwen2.5 · LoRA · FAISS · RAG · SageMaker
+- 🔗 [GitHub](https://github.com/2026-Pretrained-Conversational-Model) · [Demo](https://youtu.be/YiBWHTeuNjY)
 
-* `parse_policies.py` → PDF 총칙 파싱/청크화
-* `ingest_policy_pg.py` → 정책/청크 PostgreSQL 적재
-* `ingest_budget_pdf.py` → 예산안 PDF/파싱 결과 아티팩트+메타 저장
-* `ingest_events_snowflake.py` → OCR/태깅 이벤트 Snowflake 적재 → 통계/분석
-* (완성 시) `/reasoner CLI` → 영수증 입력 시 규정 근거·코드 추천, 설명 로그 출력
+### 🧾 [LedgerMate](https://github.com/yeseul-kim01/2025-PROJECT_ledgermate-platform) — 규정 기반 예·결산 어시스턴트 *(개인)*
+총칙/세칙 PDF를 파싱→검색 가능한 청크로 저장하고, 예산/결산 작성 시 **규정 근거·분류·코드 추천**까지 지원하는 라이브러리 중심 파이프라인. OCR·이벤트 로그는 Snowflake로 분석.
+- 🛠 FastAPI · AWS Lambda · Step Functions · PostgreSQL · pgvector · Snowflake · RAG · OCR
+- 🧩 기획 · 데이터 모델링 · 백엔드/CLI · 스토리지 설계 · 배포 자동화 단독 수행
 
----
+### 🏫 [WeCampus](https://github.com/wecampus-platform) — 대학 협업 플랫폼 *(2025 PNU SW 융합 해커톤 예선 수상)*
+학생회·학과 간 소통과 일정/업무 관리 플랫폼. 팀장 · 백엔드 · 배포 · 일부 프론트.
+- 🛠 Spring Boot · Next.js · MySQL · Docker · GCP · GitHub Actions · RBAC
 
-🚀 **목표**
+### 🗣 [SpeakNote](https://github.com/2025-AI-SW-Hackathon) — 실시간 강의 음성 AI 주석 *(2025 AI·SW 해커톤 최우수상 · PNU DAIC 최우수상)*
+강의 음성을 STT → 검색 기반 문맥 보강 → 요약 → **PDF 슬라이드 주석**으로 연결. SQS 기반 워커 분리 구조.
+- 🛠 Spring Boot · FastAPI · RAG/CRAG · SQS · S3 · MongoDB · MySQL · Docker · AWS
 
-* **라이브러리 우선:** API/프론트 없어도 활용 가능 → 기업/학교 환경 내장형 SW로 통합 용이
-* **데이터 기반 개선:** Snowflake 적재 데이터를 활용해 추천 정확도·패턴 분석
-* **강인성:** 규정 포맷 변경에도 대응 가능한 파이프라인
-* **최적화 가능:** 플러그블 추론 구조 + 클라우드 분석 연계로 정확도·비용 상황별 최적화
+### ☁️ [MS-Serving](https://github.com/2025-PNU-CC-TERM-PROJECT) — Kubernetes 기반 AI 모델 서빙 플랫폼
+다양한 모델을 **KServe · Knative · Istio**로 서빙하고 Prometheus/Grafana/Jaeger/Kiali로 관측.
+- 🛠 Kubernetes · KServe · Knative · Istio · Spring Boot · Prometheus · Grafana
 
-
-
----
-
-### 🏫 [WeCampus](https://github.com/wecampus-platform) — 2025 PNU SW 융합 해커톤(예선 수상, 본선 진행중) 대학 협업 플랫폼 (진행중)
-- 학생회 및 학과 간 소통, 일정/업무 관리를 위한 플랫폼
-- 🛠 **Spring Boot**, **Next.js**, **MySQL**, **Docker**, **GCP**, **GITHUB ACTION**
-
-- 🧩 팀장 및 백엔드 , 서비스 배포 , 일부 프론트 
----
-
-### 🗣 [SpeakNote](https://github.com/2025-AI-SW-Hackathon) — 2025 AI·SW 해커톤 최우수상 , 2025 PNU DAIC 최우수상 수상 (진행중)
-- 강의 음성을 요약하여 실시간 주석으로 표시하는 LLM 기반 강의 보조 시스템
-- 🛠 **FastAPI**, **React**, **Google STT**, **OpenAI GPT**, **WebSocket** , **PDF.JS** , **Docker** 
-
-
-- 🧩 PDF 상 실시간 주석 생성 및 배치, 드래그 앤 드롭 기반 인터랙션 UI 구현
-
-- 🔗 FastAPI 기반 AI 서버와 Spring Boot 백엔드 연동, WebSocket 및 REST API 통신 직접 구현
-
-- 🗄 MongoDB 기반 주석 저장 구조 설계, 주석 위치 및 텍스트 저장/복원 기능 구현
-
-- ☁️ GCP VM 기반 전체 인프라 구성 및 배포, AI 서버 및 백엔드 컨테이너화 직접 담당
+### 👩‍🏫 [JUSTICE](https://github.com/PNU-IBE-JUSTICE) — IBE 멘토링 플랫폼
+멘토링 출결·일지·과제 관리 웹 시스템. Spring Boot · Spring Security · OAuth2 · MySQL.
 
 ---
 
-### ☁️ [AI Model Serving Platform](https://github.com/2025-PNU-CC-TERM-PROJECT) (완료)
-- 다양한 AI 모델을 Kubernetes + Istio 기반으로 서빙하는 텀 프로젝트
-- 🛠 **TorchServe**, **FastAPI**, **Spring Boot**, **Kubernetes**, **Istio**
-- 모델 API 개발 및 백엔드 서버 구축
-
----
-
-### 👩‍🏫 [JUSTICE](https://github.com/PNU-IBE-JUSTICE) — IBE 멘토링 플랫폼 (완료)
-- 멘토링 출결·일지·과제 관리를 위한 웹 시스템
-- 🛠 **Spring Boot**, **MySQL**, **Thymeleaf**
-
-
----
-
-## 💡 Skills & Interests
-- Back-end: Java, Spring Boot, JPA, MySQL, PostgreSQL, NoSQL-MongoDB, Redis, WebSocket
-- Front-end: React, Next.js, Tailwind CSS, PDF.js
-- AI/ML: PyTorch, TorchServe, OpenAI GPT, Upstage Solar, RAG-lite, LightGBM, SVM
-- Data/Parsing: OCR(Upstage, Tesseract, Google Vision, AWS Textract), Document Parser, pgvector, Snowflake
-- Infrastructure: Docker, Docker Compose, Kubernetes, Istio, GitHub Actions, AWS EC2, GCP, Render, Cloud Run
-- Etc: PyPI Packaging, ETL/Data Pipeline, CI/CD Automation, Observability(Prometheus, Grafana, Jaeger, Kiali)
-
-
+## 💡 Skills
+- **Backend:** Java · Spring Boot · JPA · Spring Security/OAuth2 · FastAPI · Flask · Node.js · WebSocket · MySQL · PostgreSQL · MongoDB · Redis
+- **AI · LLM / NLP:** Multi-Agent(ReAct) · RAG/CRAG · LangChain · vLLM · LoRA/SFT · PyTorch · BERT/GNN · Qwen2.5 · OpenAI · Upstage Solar
+- **Data / Storage:** Neo4j · pgvector · FAISS · Snowflake · OCR(Upstage/Tesseract/Vision/Textract) · Knowledge Graph
+- **Infra / MLOps:** Docker · Kubernetes(KServe/Knative/Istio) · AWS(Lambda/Step Functions/SageMaker/EC2) · GCP · GitHub Actions · CI/CD · Observability(Prometheus/Grafana/Jaeger/Kiali)
 
 ---
 
 ## 📫 Let's connect!
-- GitHub: [yeseul-kim01](https://github.com/yeseul-kim01)
-- Email: yesul0718@pusan.ac.kr , ysk010718@gmail.com
-
+- 🌐 Portfolio: [yeseulkim.cloud](https://yeseulkim.cloud)
+- 🐙 GitHub: [yeseul-kim01](https://github.com/yeseul-kim01)
+- 📝 Notion: [이력/포트폴리오](https://flat-mind-461.notion.site/1ecf2e888e268026adebfd5d00b123bd)
+- ✉️ Email: yesul0718@gmail.com · yesul0718@pusan.ac.kr
