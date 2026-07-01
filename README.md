@@ -83,57 +83,67 @@
 
 ---
 
-## Hi there 👋
+## Hi there 
 I'm **Yeseul Kim** — 백엔드에서 출발해 **AI를 ‘서비스’로 운영하는 구조**까지 설계하는 개발자입니다.
 Spring Boot · FastAPI 백엔드 위에 LLM 운영(Multi-Agent · RAG) · 모델 파인튜닝 · 쿠버네티스/서버리스 인프라를 직접 연결해 왔습니다.
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🤖 [StructVerify](https://github.com/2026-StructVerify-Lab) — 도메인 독립형 LLM 사실검증 플랫폼 🏆 *멋쟁이사자처럼 AI NLP 4기 최우수상*
+###  [AI 강의 분석 리포트 생성기](https://github.com/yeseul-kim01/lecture-report-core) — 강의력 자동 분석·코칭 SaaS *(AI 평가 로직 · 멀티테넌트/배포 인프라)*
+STT 강의 스크립트·녹음/영상을 **5개 영역·18개 항목**으로 1~5점 채점하고, 각 점수의 **근거 발언(타임스탬프)**과 우선 개선점까지 리포트화. "점수"가 아니라 **"왜 그 점수인지·무엇을 고칠지"**를 함께 주는 것이 핵심.
+- 핵심: **LLM-as-Judge + RAG 근거 태깅** 평가 파이프라인 · 강사 코칭 리포트 · 수강생 공개 설문 → **AI vs 학생** 항목별 비교 · 구글 OIDC **멀티테넌트**(워크스페이스 · BYO API 키)
+- 운영: **브랜치별 CI/CD**(GitHub Actions → rsync → Docker Compose) · **Caddy 자동 HTTPS** · AWS 인스턴스에서 직접 배포·운영
+- 성과: 전문가 gold 평가 대비 AI 채점 오차 **MAE 0.66**(1~5점 척도)
+- 🛠 Python · Streamlit · Upstage Solar · Gemini · RAG · Docker · Caddy · AWS · GitHub Actions
+- 🔗 [Live](https://lectureanalzer.yeseulkim.cloud) · [Demo](https://www.youtube.com/watch?v=rOUDMiKr6xk)
+
+
+### [StructVerify](https://github.com/2026-StructVerify-Lab) — 도메인 독립형 LLM 사실검증 플랫폼 🏆 *멋쟁이사자처럼 AI NLP 4기 최우수상*
 뉴스의 수치 주장을 KOSIS 등 **공식 통계와 자동 비교·검증**. 고정 파이프라인이 아니라 **ReAct Agent(Planner → Loop → Reflect)** 가 claim마다 계획을 세우고 도구를 호출하며 반성합니다.
 - 핵심: **Multi-Agent** · **Working Memory + Workspace** 이중 상태 · **Docker Sandbox**(신뢰 불가 코드 격리) · claim leveling
 - 성과: 판정 정확도(oracle) **62.2%**, KOSIS grounding **94.6%**
 - 🛠 FastAPI · ReAct Agent · RAG · pgvector · Neo4j · Redis · Docker · HCX
 - 🔗 [GitHub](https://github.com/2026-StructVerify-Lab) · [Demo](https://youtu.be/UrgJ6tJFd1Q)
 
-### 🔗 [Text2Graph](https://github.com/yeseul-kim01/2026-Text2Graph) — 문서 단위 관계추출 → 지식그래프 파이프라인 *(총괄 PM)*
+### [Text2Graph](https://github.com/yeseul-kim01/2026-Text2Graph) — 문서 단위 관계추출 → 지식그래프 파이프라인 *(총괄 PM)*
 DocRED 기반 **Document-level Relation Extraction**을 4단계 Incremental Stacking으로 쌓아 Neo4j 지식그래프까지 구축.
 - 구조: BERT → **ATLOP + DREEAM** → **GAIN-lite GNN** → **Graph U-Net**
 - 성과: Stage 3 **Micro F1 60.43** (DocRED Dev, 998문서)
 - 🛠 PyTorch · BERT · GNN · ATLOP · DREEAM · Neo4j
 - 🔗 [GitHub](https://github.com/yeseul-kim01/2026-Text2Graph)
 
-### 💬 [Multiturn Memory Chat](https://github.com/2026-Pretrained-Conversational-Model) — 메모리 기반 멀티턴 챗봇 *(NLP 팀)*
+### [Multiturn Memory Chat](https://github.com/2026-Pretrained-Conversational-Model) — 메모리 기반 멀티턴 챗봇 *(NLP 팀)*
 대화를 **memory_state로 압축·갱신**하는 구조를 설계하고, 그 **요약 모델을 LoRA로 직접 파인튜닝**해 멀티턴 성능 개선을 연구.
 - 핵심: 읽기 매 턴 / 쓰기 3턴 fire-and-forget · 라우터 4-state · completion-only SFT(v0.1→v0.3)
 - 🛠 FastAPI · Node.js · Qwen2.5 · LoRA · FAISS · RAG · SageMaker
 - 🔗 [GitHub](https://github.com/2026-Pretrained-Conversational-Model) · [Demo](https://youtu.be/YiBWHTeuNjY)
 
-### 🧾 [LedgerMate](https://github.com/yeseul-kim01/2025-PROJECT_ledgermate-platform) — 규정 기반 예·결산 어시스턴트 *(개인)*
+### [LedgerMate](https://github.com/yeseul-kim01/2025-PROJECT_ledgermate-platform) — 규정 기반 예·결산 어시스턴트 *(개인)*
 총칙/세칙 PDF를 파싱→검색 가능한 청크로 저장하고, 예산/결산 작성 시 **규정 근거·분류·코드 추천**까지 지원하는 라이브러리 중심 파이프라인. OCR·이벤트 로그는 Snowflake로 분석.
 - 🛠 FastAPI · AWS Lambda · Step Functions · PostgreSQL · pgvector · Snowflake · RAG · OCR
 - 🧩 기획 · 데이터 모델링 · 백엔드/CLI · 스토리지 설계 · 배포 자동화 단독 수행
 
-### 🏫 [WeCampus](https://github.com/wecampus-platform) — 대학 협업 플랫폼 *(2025 PNU SW 융합 해커톤 예선 수상)*
+### [WeCampus](https://github.com/wecampus-platform) — 대학 협업 플랫폼 *(2025 PNU SW 융합 해커톤 예선 수상)*
 학생회·학과 간 소통과 일정/업무 관리 플랫폼. 팀장 · 백엔드 · 배포 · 일부 프론트.
 - 🛠 Spring Boot · Next.js · MySQL · Docker · GCP · GitHub Actions · RBAC
 
-### 🗣 [SpeakNote](https://github.com/2025-AI-SW-Hackathon) — 실시간 강의 음성 AI 주석 *(2025 AI·SW 해커톤 최우수상 · PNU DAIC 최우수상)*
+### [SpeakNote](https://github.com/2025-AI-SW-Hackathon) — 실시간 강의 음성 AI 주석 *(2025 AI·SW 해커톤 최우수상 · PNU DAIC 최우수상)*
 강의 음성을 STT → 검색 기반 문맥 보강 → 요약 → **PDF 슬라이드 주석**으로 연결. SQS 기반 워커 분리 구조.
 - 🛠 Spring Boot · FastAPI · RAG/CRAG · SQS · S3 · MongoDB · MySQL · Docker · AWS
+- 🔗 [Live](https://speanote.site) 
 
-### ☁️ [MS-Serving](https://github.com/2025-PNU-CC-TERM-PROJECT) — Kubernetes 기반 AI 모델 서빙 플랫폼
+###  [MS-Serving](https://github.com/2025-PNU-CC-TERM-PROJECT) — Kubernetes 기반 AI 모델 서빙 플랫폼
 다양한 모델을 **KServe · Knative · Istio**로 서빙하고 Prometheus/Grafana/Jaeger/Kiali로 관측.
 - 🛠 Kubernetes · KServe · Knative · Istio · Spring Boot · Prometheus · Grafana
 
-### 👩‍🏫 [JUSTICE](https://github.com/PNU-IBE-JUSTICE) — IBE 멘토링 플랫폼
+###  [JUSTICE](https://github.com/PNU-IBE-JUSTICE) — IBE 멘토링 플랫폼
 멘토링 출결·일지·과제 관리 웹 시스템. Spring Boot · Spring Security · OAuth2 · MySQL.
 
 ---
 
-## 💡 Skills
+##  Skills
 - **Backend:** Java · Spring Boot · JPA · Spring Security/OAuth2 · FastAPI · Flask · Node.js · WebSocket · MySQL · PostgreSQL · MongoDB · Redis
 - **AI · LLM / NLP:** Multi-Agent(ReAct) · RAG/CRAG · LangChain · vLLM · LoRA/SFT · PyTorch · BERT/GNN · Qwen2.5 · OpenAI · Upstage Solar
 - **Data / Storage:** Neo4j · pgvector · FAISS · Snowflake · OCR(Upstage/Tesseract/Vision/Textract) · Knowledge Graph
@@ -141,7 +151,7 @@ DocRED 기반 **Document-level Relation Extraction**을 4단계 Incremental Stac
 
 ---
 
-## 📫 Let's connect!
-- 🌐 Portfolio: [yeseulkim.cloud](https://yeseulkim.cloud)
-- 🐙 GitHub: [yeseul-kim01](https://github.com/yeseul-kim01)
-- ✉️ Email: yesul0718@gmail.com · yesul0718@pusan.ac.kr
+##  Let's connect!
+-  Portfolio: [yeseulkim.cloud](https://yeseulkim.cloud)
+-  GitHub: [yeseul-kim01](https://github.com/yeseul-kim01)
+-  Email: yesul0718@gmail.com · yesul0718@pusan.ac.kr
